@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 13:23:04 CLST 2023
+itextpdf-5.4.3.jar>central=
+itextpdf-5.4.3.pom>central=
+itextpdf-5.4.3-sources.jar>central=

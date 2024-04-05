@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 05 12:12:08 CLST 2024
+com.ibm.websphere.appserver.api.transaction-1.1.21.jar>central=
+com.ibm.websphere.appserver.api.transaction-1.1.21.pom>central=

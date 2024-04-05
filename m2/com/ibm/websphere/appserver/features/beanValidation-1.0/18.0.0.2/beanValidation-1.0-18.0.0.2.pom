@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ibm.websphere.appserver.features</groupId>
+  <artifactId>beanValidation-1.0</artifactId>
+  <version>18.0.0.2</version>
+  <packaging>esa</packaging>
+  <name>Bean Validation 1.0</name>
+  <description>The Bean Validation 1.0 specification provides an annotation based model for validating JavaBeans.  It can be used to assert and maintain the integrity of data as it travels through an application.</description>
+  <licenses>
+    <license>
+      <name>Additional Features Terms &amp; Conditions</name>
+      <url>http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/featureTerms/</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>io.openliberty.features</groupId>
+      <artifactId>com.ibm.websphere.appserver.javaeeCompatible-6.0</artifactId>
+      <version>18.0.0.2</version>
+      <type>esa</type>
+    </dependency>
+    <dependency>
+      <groupId>io.openliberty.features</groupId>
+      <artifactId>com.ibm.websphere.appserver.internal.slf4j-1.7.7</artifactId>
+      <version>18.0.0.2</version>
+      <type>esa</type>
+    </dependency>
+    <dependency>
+      <groupId>io.openliberty.features</groupId>
+      <artifactId>com.ibm.websphere.appserver.beanValidationCore-1.0</artifactId>
+      <version>18.0.0.2</version>
+      <type>esa</type>
+    </dependency>
+    <dependency>
+      <groupId>com.ibm.websphere.appserver.features</groupId>
+      <artifactId>com.ibm.websphere.appserver.javax.validation-1.0</artifactId>
+      <version>18.0.0.2</version>
+      <type>esa</type>
+    </dependency>
+  </dependencies>
+</project>

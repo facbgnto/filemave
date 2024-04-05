@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 13:25:42 CLST 2023
+lucene-analyzers-common-4.5.1-sources.jar>central=
+lucene-analyzers-common-4.5.1.jar>central=
+lucene-analyzers-common-4.5.1.pom>central=

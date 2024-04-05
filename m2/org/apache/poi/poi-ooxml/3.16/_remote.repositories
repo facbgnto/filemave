@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 13:24:16 CLST 2023
+poi-ooxml-3.16-sources.jar>central=
+poi-ooxml-3.16.jar>central=
+poi-ooxml-3.16.pom>central=

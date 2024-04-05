@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 12 20:59:29 CLT 2023
+bootstrap-1.0.10.jar>prime-repo=
+bootstrap-1.0.10>prime-repo=
+bootstrap-1.0.10.pom>prime-repo=

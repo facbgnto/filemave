@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 11:37:09 CLST 2023
+https\://repository.primefaces.org/.lastUpdated=1696340036518
+http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1696343829853
+http\://0.0.0.0/.error=Could not transfer artifact com.lowagie\:itext\:jar\:2.1.7.js4 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [jasperreports (http\://jasperreports.sourceforge.net/maven2, default, releases+snapshots), jaspersoft-third-party (http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/, default, releases+snapshots)]
+https\://repository.primefaces.org/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1696340036653
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1696340036653
+https\://repo.maven.apache.org/maven2/.error=

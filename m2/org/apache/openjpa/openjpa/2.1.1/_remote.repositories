@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 13:25:17 CLST 2023
+openjpa-2.1.1.jar>central=
+openjpa-2.1.1-sources.jar>central=
+openjpa-2.1.1.pom>central=

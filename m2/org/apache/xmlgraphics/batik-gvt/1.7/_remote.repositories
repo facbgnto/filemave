@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 13:23:12 CLST 2023
+batik-gvt-1.7.jar>central=
+batik-gvt-1.7-sources.jar>central=
+batik-gvt-1.7.pom>central=
